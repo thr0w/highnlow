@@ -34,7 +34,7 @@ const palavras: Palavras = {
     'Encontros presenciais também são legais mas respeite as recomendações para em tempos de pandemia.',
     'Pode-se começar e encerrar um grupo a qualquer momento.',
     'Pode-se participar de vários grupos simultaneamente.',
-    'Pode-se montar grupos em qualquer momento e lugar. É uma ótima pedida quando falta assunto. Basta haver disponibilidae para conversar e cuidar um do outro.'
+    'Pode-se montar grupos em qualquer momento e lugar, até numa conversa privada por mensagem. É uma ótima pedida quando falta assunto. Basta haver disponibilidae para conversar e cuidar um do outro.'
   ],
   recommendations: [
     'recomendações',
@@ -48,7 +48,8 @@ const palavras: Palavras = {
     'Fale de você mesmo, em primeira pessoa do singular (Eu percebi/percebo, eu senti/sinto, eu pensei/penso, eu temi/temo, eu desejei/desejo... )',
     'Falar do que aconteceu ou do que está se sentindo a respeito do que aconteceu',
     'Manter uma conduta de respeito e valorização da sabedoria coletiva, de modo a focar nos objetivos do encontro em que não cabe pregações de quaisquer natureza, incluindo políticas, religiosas, morais e éticas.',
-    'Favorecer a privacidade, a confiança e a abertura em novos encontros com sigilo, discrição e cuidado uns para com os outros, desse modo, o que é dito no grupo fica no grupo.'
+    'Favorecer a privacidade, a confiança e a abertura em novos encontros com sigilo, discrição e cuidado uns para com os outros, desse modo, o que é dito no grupo fica no grupo.',
+    'Seja paciente se alguém deixar de seguir as recomendações, no próximo encontro reforce-as sem expor a pessoa.'
   ],
   contribue: [
     'Contribua',

@@ -10,7 +10,7 @@ const palavras: Palavras = {
   ],
   whatIs: [
     'What is',
-    'A quick conversation with friends about the high and low points of the day'
+    'Conversar com pessoas queridas A quick conversation with friends about the high and low points of the day'
   ],
   purpose: [
     'purpose',
@@ -33,7 +33,8 @@ const palavras: Palavras = {
     'Beware of strangers.',
     'Face-to-face meetings are also cool, but respect the recommendations for pandemic times.',
     'You can start and end a group at any time.',
-    'You can participate in several groups simultaneously.'
+    'You can participate in several groups simultaneously.',
+    'You can set up groups at any time and place, even in a private message conversation. It is a great request when there is no topic. Just be available to talk and take care of each other.'
   ],
   recommendations: [
     'recommendations',
@@ -47,7 +48,8 @@ const palavras: Palavras = {
     'Talk about yourself, in the first person singular (I perceived/perceived, I felt/feel, I thought/I think, I feared/I feared, I desired/desire ...)',
     'Talk about what happened or what you are feeling about what happened',
     'Maintain a conduct of respect and appreciation of collective wisdom, in order to focus on the objectives of the meeting in which there is no room for preaching of any kind, including political, religious, moral and ethical.',
-    'Encouraging privacy, trust and openness in new meetings with secrecy, discretion and care for each other, thus, what is said in the group remains in the group.'
+    'Encouraging privacy, trust and openness in new meetings with secrecy, discretion and care for each other, thus, what is said in the group remains in the group.',
+    'Be patient if someone fails to follow the recommendations, at the next meeting reinforce them without exposing the person.'
   ],
   contribue: [
     'Contribute',
