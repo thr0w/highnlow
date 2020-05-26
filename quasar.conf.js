@@ -80,8 +80,7 @@ module.exports = configure(function (ctx) {
 
       // Quasar plugins
       plugins: [
-        'Meta'
-      ]
+    ]
     },
 
     // https://quasar.dev/quasar-cli/cli-documentation/supporting-ie
