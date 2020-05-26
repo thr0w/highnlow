@@ -10,7 +10,7 @@ const palavras: Palavras = {
   ],
   whatIs: [
     'O que é',
-    'Uma conversa rápido em que os participantes falam do ponto alto e baixo do dia'
+    'Uma conversa rápida em que os participantes podem contar sobre os altos e baixos do dia'
   ],
   purpose: [
     'objetivo',

@@ -143,9 +143,9 @@ module.exports = configure(function (ctx) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'High and Low Game',
-        short_name: 'High and Low Game',
-        description: 'High and Low Game',
+        name: 'Brincadeira do Alto e Baixo',
+        short_name: 'Brincadeira do Alto e Baixo',
+        description: 'Compartilhe comigo os altos e baixos do seu dia',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
