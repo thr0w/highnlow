@@ -8,6 +8,10 @@ const palavras: Palavras = {
     'Com o confinamento social, a distância, os medos, a necessidade de afeto, abraços e carinhos, saltam aos olhos, é evidente a importância do exercício da compaixão e da empatia, o cuidar uns dos outros, com o máximo de apreço possível nas interações com as pessoas.',
     'Mesmo sendo apresentada de forma lúdica, a brincadeira do alto e baixo pode trazer benefícios emocionais, físicos e mentais, além de contribuir com um dos fatores essenciais para a valorização da vida, que é o fortalecimento de vínculos de qualidade. Ela facilita que possamos falar sobre como estamos e desabafar. E permite que acompanhemos as pessoas que a gente gosta, sabendo um pouco melhor sobre como elas estão e também permitindo que elas desabafem, e saibam de nós.'
   ],
+  whatIs: [
+    'O que é',
+    'Uma conversa rápido em que os participantes falam do ponto alto e baixo do dia'
+  ],
   purpose: [
     'objetivo',
     'Incentivar diálogo entre as pessoas com objetivo de fortalecer vínculos de emocionais de qualidade.',

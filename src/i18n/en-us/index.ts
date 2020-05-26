@@ -8,6 +8,10 @@ const palavras: Palavras = {
     'With social confinement, distance, fears, the need for affection, hugs and affection, jump to the eye, and there is evidence of the exercise of compassion and empathy, taking care of each other, with as much appreciation as possible in interactions with people.',
     'Even being presented in a playful way, the game of high and low can bring emotional, physical and mental benefits, in addition to contributing to one of the essential factors for the valorization of life, which is the strengthening of quality bonds. It makes it easier for us to talk about how we\'re doing and let off steam. And it allows us to accompany the people we like, knowing a little better about how they are doing and also allowing them to vent, and to know us.'
   ],
+  whatIs: [
+    'What is',
+    'A quick conversation in which participants talk about the high and low points of the day'
+  ],
   purpose: [
     'purpose',
     'Encourage dialogue between people in order to strengthen quality emotional bonds.',

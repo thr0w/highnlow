@@ -108,6 +108,7 @@ export default {
         window.open(e.target.src, '_blank')
       },
       sections: [
+        'whatIs',
         'purpose',
         'howItWorks',
         'aboutGroups',
