@@ -10,7 +10,7 @@ const palavras: Palavras = {
   ],
   whatIs: [
     'What is',
-    'A quick conversation in which participants talk about the high and low points of the day'
+    'A quick conversation with friends about the high and low points of the day'
   ],
   purpose: [
     'purpose',
