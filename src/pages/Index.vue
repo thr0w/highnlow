@@ -21,6 +21,20 @@
       </q-card-section>
     </q-card>
 
+    <q-card
+      elevated
+      class="column full-width q-pt-md q-ma-md"
+    >
+      <q-card-section>
+        <p class="text-h5 text-uppercase">FAQ</p>
+        <p
+          v-for="(txt,i) in traduz('faq')"
+          :key="i"
+          :class="i%2===0?'text-h6 text-uppercase':'text-body1'"
+        >{{txt}}</p>
+      </q-card-section>
+    </q-card>
+
     <q-card elevated class="column full-width q-pt-md q-ma-md">
       <q-card-section>
         <p class="text-h5">{{traduz('download')}}</p>

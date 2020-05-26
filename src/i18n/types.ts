@@ -7,5 +7,6 @@ export interface Palavras {
     aboutGroups: string[];
     recommendations: string[];
     contribue: string[];
+    faq: string[];
     download: string;
 }

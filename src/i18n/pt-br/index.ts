@@ -22,7 +22,7 @@ const palavras: Palavras = {
     'A participação é sempre opcional',
     'Reúna entre 2 e 8 pessoas de 10 a 20 minutos numa sala virtual (Vídeo chamada do Whatsapp, por exemplo)',
     'Combine a frequência de encontros ideal para o grupo',
-    'Reforce o objetivo, o funcionamento e as recomendações a cada encontro',
+    'Reforce o objetivo, o funcionamento e as recomendações a cada encontro. Com cuidado pra não ser enfadonho',
     'Cada pessoa, se quiser, fala sobre um ponto alto e um ponto baixo do dia que considere relevante partilhar. ',
     'Ouvir também é participar.'
   ],
@@ -54,6 +54,14 @@ const palavras: Palavras = {
   contribue: [
     'Contribua',
     'Te convidamos a compartilhar essa ideia para promover um mundo mais compreensivo, solidário e acolhedor.'
+  ],
+  faq: [
+    'A brincadeira do Alto e Baixo é terapia?',
+    'Não! Apesar de ter efeito terapêutivo essa brincadeira não substitui a terapia que deve ser feita por profissionais (psicanalistas ou psicólogolos). É possível conseguir atendimento psicológico gratuíto em CAPS, Universidades e mesmo em algumas clínicas particulares. Informe-se',
+    'Quem são vocês?',
+    'Ninguém em especial. Somos um grupo de pessoas que congregam várias formas de pensamento, inclusive religiosa e policitamente, mas que se juntaram para divulgar essa idéia por sentirem que estamos carentes de diálogo.',
+    'Qual a origem dessa brincadeira?',
+    'Não sabemos a origem. Ela já é antiga. Inclusive aparece num filme de 1999, A História de Nós Dois.'
   ],
   download: 'Folder explicativo para baixar'
 }
