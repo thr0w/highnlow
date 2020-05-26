@@ -26,10 +26,11 @@ const palavras: Palavras = {
     'Sobre o grupo',
     'Pode ser um grupo familiar, de amigos da escola, igreja, trabalho, balada, etc.',
     'Convide as pessoas com suas próprias palavras, evite textos, links e imagens padronizadas.',
-    'Cuidado com pessoas desconhecidas.',
+    'Cuidado aos participar de grupos com pessoas desconhecidas.',
     'Encontros presenciais também são legais mas respeite as recomendações para em tempos de pandemia.',
     'Pode-se começar e encerrar um grupo a qualquer momento.',
-    'Pode-se participar de vários grupos simultaneamente.'
+    'Pode-se participar de vários grupos simultaneamente.',
+    'Pode-se montar grupos em qualquer momento e lugar. É uma ótima pedida quando falta assunto. Basta haver disponibilidae para conversar e cuidar um do outro.'
   ],
   recommendations: [
     'recomendações',

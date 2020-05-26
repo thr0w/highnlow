@@ -28,7 +28,9 @@ export function langUtils (init?: boolean) {
     }
   }
   if (init) {
-    ret.setaLang(Quasar.lang.getLocale())
+    if (location.hostname.includes('altoebaixo.com.br')) ret.setaLang('pt-br')
+    else if (location.hostname.includes('highnlow.org')) ret.setaLang('en-us')
+    else ret.setaLang(Quasar.lang.getLocale())
   }
   return ret
 }
