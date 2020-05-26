@@ -10,7 +10,7 @@ const palavras: Palavras = {
   ],
   whatIs: [
     'What is',
-    'Conversar com pessoas queridas A quick conversation with friends about the high and low points of the day'
+    'A game that encourages us to take better care of loved ones, talking quickly about the ups and downs of the day.'
   ],
   purpose: [
     'purpose',
