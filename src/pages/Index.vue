@@ -88,10 +88,10 @@
           v-if="ptBR()"
           key="instpt"
           class="row items-center justify-evenly cursor-pointer"
-          @click="abre('https://instagram.com/altoebaixo')"
+          @click="abre('https://instagram.com/doaltoebaixo')"
         >
           <img src="~assets/instagram.png" width="30px" class="q-pr-sm" />
-          <span class="text-caption">instagram.com/altoebaixo</span>
+          <span class="text-caption">instagram.com/doaltoebaixo</span>
         </div>
         <div
           class="row items-center justify-evenly cursor-pointer"

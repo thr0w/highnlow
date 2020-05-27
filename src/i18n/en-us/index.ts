@@ -4,13 +4,13 @@ import { Palavras } from '../types'
 const palavras: Palavras = {
   nome: 'High and Low Game',
   intro: [
-    'A proposal for us to take better care of each other.',
+    'A proposal to take better care of each other, to get closer to the people we love',
     'With social confinement, distance, fears, the need for affection, hugs and affection, jump to the eye, and there is evidence of the exercise of compassion and empathy, taking care of each other, with as much appreciation as possible in interactions with people.',
     'Even being presented in a playful way, the game of high and low can bring emotional, physical and mental benefits, in addition to contributing to one of the essential factors for the valorization of life, which is the strengthening of quality bonds. It makes it easier for us to talk about how we\'re doing and let off steam. And it allows us to accompany the people we like, knowing a little better about how they are doing and also allowing them to vent, and to know us.'
   ],
   whatIs: [
     'What is',
-    'A game that encourages us to take better care of loved ones, talking quickly about the ups and downs of the day.'
+    'An activity, like a game, that encourages better treatment of loved ones, talking quickly about the ups and downs of the day.'
   ],
   purpose: [
     'purpose',
@@ -39,6 +39,7 @@ const palavras: Palavras = {
   recommendations: [
     'recommendations',
     'Provide a space in which each person feels welcomed and well in the group.',
+    'Be punctual, delay is a disrespect to friends.',
     'Speak one person at a time.',
     'Listen carefully and empathetically.',
     'Respect speeches and silences.',
@@ -58,12 +59,14 @@ const palavras: Palavras = {
   faq: [
     'The High and Low Game is therapy?',
     'Not! Despite having a therapeutic effect, this game does not replace the therapy that should be performed by professionals (psychoanalysts or psychologists). It is possible to get free psychological care in some places like universities and even in some private clinics. Inquire.',
+    'What if someone says something very heavy?',
+    'It is recommended to welcome the person, let them speak as much as possible. Understand that it is not a time to solve problems, nor to criticize, nor to judge, nor to compare and neither to give advice. The moment is one of outburst, of emptying. We must be very careful when interfering with someone else\'s life. Remember that you are responsible for the consequences of the advice, judgments and criticisms you make. And if what is said affects you, get help for yourself before trying to offer something to someone else.',
     'Who are you?',
     'Nobody in particular. We are a group of people who bring together various forms of thought, including religiously and politically, but who came together to spread this idea because they feel that we are in need of dialogue.',
     'What is the origin of this game?',
     'We don\'t know the origin. It is already old. It even appears in a 1999\'s movie, The Story of Us.'
   ],
-  download: 'Explanation folder to download'
+  download: 'Explanation folder to share'
 }
 
 export default palavras
