@@ -125,8 +125,8 @@ export default {
         'whatIs',
         'purpose',
         'howItWorks',
-        'aboutGroups',
         'recommendations',
+        'aboutGroups',
         'contribue'
       ]
     }

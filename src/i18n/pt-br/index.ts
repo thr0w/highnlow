@@ -34,7 +34,7 @@ const palavras: Palavras = {
     'Encontros presenciais também são legais mas respeite as recomendações para em tempos de pandemia.',
     'Pode-se começar e encerrar um grupo a qualquer momento.',
     'Pode-se participar de vários grupos simultaneamente.',
-    'Pode-se montar grupos em qualquer momento e lugar, até numa conversa privada por mensagem. É uma ótima pedida quando falta assunto. Basta haver disponibilidae para conversar e cuidar um do outro.'
+    'Pode-se montar grupos em qualquer momento e lugar, até em conversas privadas por mensagem. É uma ótima pedida quando falta assunto. Basta haver disponibilidae para conversar e cuidar um do outro.'
   ],
   recommendations: [
     'recomendações',
