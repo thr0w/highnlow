@@ -59,6 +59,8 @@ const palavras: Palavras = {
   faq: [
     'A brincadeira do Alto e Baixo é terapia?',
     'Não! Apesar de ter efeito terapêutivo essa brincadeira não substitui a terapia que deve ser feita por profissionais (psicanalistas ou psicólogolos). É possível conseguir atendimento psicológico gratuíto em CAPS, Universidades e mesmo em algumas clínicas particulares. Informe-se',
+    'O que eu faço se a pessoa não quiser brincar comigo?',
+    'Por um lado é importante lembrar que a participação nessa brincadeira é opicional. Talvez a pessoa esteja sem tempo, ou talvez ela esteja num momento difícil. Por outro lado é importante entendermos o efeito que isso causa na gente. Sentimentos de rejeição, solidão e até de abandono podem surgir. Somos responsáveis por esss sentimentos em nós mesmos, é importante evitar responsabilizar a outra pessoa pelo que sentimos. Em alguns casos é necessário a ajuda profissional de um psocólogo ou um psicanalista.',
     'E se alguém falar algo muito pesado?',
     'É recomendado acolher a pessoa, deixá-la falar o máximo possível. Entender que não é momento para resolver problemas, nem para criticar, nem para julgar, nem para comparar e nem para dar conselhos. O momento é de desabafo, de esvaziamento. Devemos ter muito cuidado ao interferir na vida de outra pessoa. Lembre-se que você é responsável pelas consequências dos conselhos, julgamentos e críticas que você faz. E, se o que for falado te afetar, busque ajuda para você antes de tentar oferecer algo à outra pessoa.',
     'Quem são vocês?',

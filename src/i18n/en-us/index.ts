@@ -59,6 +59,8 @@ const palavras: Palavras = {
   faq: [
     'The High and Low Game is therapy?',
     'Not! Despite having a therapeutic effect, this game does not replace the therapy that should be performed by professionals (psychoanalysts or psychologists). It is possible to get free psychological care in some places like universities and even in some private clinics. Inquire.',
+    'What do I do if a person doesn\'t want to play with me?',
+    'On the one hand, it is important to remember that participation in this game is optional. Maybe the person is out of time, or maybe he is in a difficult time. On the other hand, it is important to understand the effect that this has on us. Feelings of rejection, loneliness and even abandonment can arise. We are responsible for these feelings in ourselves, it is important to avoid blaming the other person for what we feel. In some cases, professional help from a psocologist or psychoanalyst is required.',
     'What if someone says something very heavy?',
     'It is recommended to welcome the person, let them speak as much as possible. Understand that it is not a time to solve problems, nor to criticize, nor to judge, nor to compare and neither to give advice. The moment is one of outburst, of emptying. We must be very careful when interfering with someone else\'s life. Remember that you are responsible for the consequences of the advice, judgments and criticisms you make. And if what is said affects you, get help for yourself before trying to offer something to someone else.',
     'Who are you?',
